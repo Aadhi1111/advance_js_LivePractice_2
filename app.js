@@ -94,3 +94,5 @@ function editItem(index){
     document.getElementById("target-date").value = bucketList[index].targetDate;
     editIndex = index;
 }
+
+console.log("hello world");
